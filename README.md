@@ -20,23 +20,23 @@
     <div> <a href=https://www.instagram.com/ehdus09/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ehdus09/"> </a>
          <a href=https://www.discord.com/users/721271309279166514> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https://www.discord.com/users/721271309279166514"> </a>
     </div>
-    
-  <table>
-  <tr>
-    <td align="center">
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ehdus09&utm_content=farm">
+      <img src="https://render.gitanimals.org/farms/ehdus09" width="600" height="300" />
+  </a>
+<!--  <table>
+  <tr> -->
+<!--     <td align="center"> -->
       <!-- GitHub Stats -->
-      <img src="https://gist.githubusercontent.com/ehdus09/0883b2985683cb9d6e58a247bc029b6f/raw/stats-box.png" width="450" />
 <!--       <a href="https://github.com/ehdus09">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehdus09&layout=compact&theme=react&hide_border=true" alt="ehdus09 Top Languages" width="450"/>
       </a> -->
-    </td>
-    <td align="center">
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ehdus09&utm_content=farm">
-        <img src="https://render.gitanimals.org/farms/ehdus09" width="600" height="300" />
-      </a>
-    </td>
+<!--     </td> -->
+<!--     <td align="center"> -->
+      
+<!--     </td>
   </tr>
-  </table>
+  </table> -->
 
   
 </div>
