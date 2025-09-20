@@ -25,7 +25,7 @@
   <tr>
     <td align="center">
       <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ehdus09&show_icons=true&theme=react&hide_border=true" />
+      <img src="https://gist.githubusercontent.com/ehdus09/0883b2985683cb9d6e58a247bc029b6f/raw/stats-box.png" width="450" />
 <!--       <a href="https://github.com/ehdus09">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehdus09&layout=compact&theme=react&hide_border=true" alt="ehdus09 Top Languages" width="450"/>
       </a> -->
@@ -38,7 +38,7 @@
   </tr>
   </table>
 
-
+  
 </div>
 
 
